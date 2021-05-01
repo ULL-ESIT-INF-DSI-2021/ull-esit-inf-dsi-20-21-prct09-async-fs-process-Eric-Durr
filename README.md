@@ -38,12 +38,12 @@
 ## **ÍNDICE**
  
 - ### [Introducción](#ap1)
-- ### [Desarrollo del ejercicio 1](#ap4)
-- ### [Desarrollo del ejercicio 2](#ap4)
+- ### [Traza del ejercicio 1](#ap2)
+- ### [Desarrollo del ejercicio 2](#ap3)
 - ### [Desarrollo del ejercicio 3](#ap4)
-- ### [Desarrollo del ejercicio 4](#ap4)
-- ### [Conclusiones](#ap5)
-- ### [Referencias](#ap6)
+- ### [Desarrollo del ejercicio 4](#ap5)
+- ### [Conclusiones](#ap6)
+- ### [Referencias](#ap7)
 
 <br>
  
@@ -64,7 +64,6 @@
   
  <!--Text goes here-->
 
-En esta práctica se propone el uso de las herramientas chalk y yarg, el alumno deberá crear, mediante un desarrollo TDD y empleando en la media de lo posible los principios SOLID, una aplicación de gestión de notas. Se usará el sistema de archivos cómo base de datos para cargar, guardar, modificar y leer las notas creadas.
 
  <!--              -->
 
@@ -80,17 +79,16 @@ En esta práctica se propone el uso de las herramientas chalk y yarg, el alumno 
  
 
  
-<div id="ap4"></div>
+<div id="ap2"></div>
 
 
-## **DESARROLLO DE LA APLICACIÓN**
+## **TRAZA DEL EJERCICIO 1**
 
 
 <br>
   
  <!--Text goes here-->
 
-Esta aplicación se estructura mediante tres clases (User, Note y NoteList)  y un fichero principal... 
  <!--              -->
 
 <br>
@@ -100,8 +98,65 @@ Esta aplicación se estructura mediante tres clases (User, Note y NoteList)  y u
 <br>
 <br>
  
+ 
+<div id="ap3"></div>
+
+
+## **DESAROLLO DEL EJERCICIO 2**
+
+
+<br>
+  
+ <!--Text goes here-->
+ <!--              -->
+
+<br>
+ 
+[índice](#inx)
+
+<br>
+<br>
+
+<div id="ap4"></div>
+
+
+## **DESAROLLO DEL EJERCICIO 3**
+
+
+<br>
+  
+ <!--Text goes here-->
+
+ <!--              -->
+
+<br>
+ 
+[índice](#inx)
+
+<br>
+<br>
+
 <div id="ap5"></div>
 
+
+## **DESAROLLO DEL EJERCICIO 4**
+
+
+<br>
+  
+ <!--Text goes here-->
+
+ <!--              -->
+
+<br>
+ 
+[índice](#inx)
+
+<br>
+<br>
+
+
+<div id="ap6"></div>
 
 
 ## **CONCLUSIÓN**
@@ -119,7 +174,7 @@ Esta aplicación se estructura mediante tres clases (User, Note y NoteList)  y u
 <br>
 <br>
  
-<div id="ap6"></div>
+<div id="ap7"></div>
 
 
 ## **REFERENCIAS**

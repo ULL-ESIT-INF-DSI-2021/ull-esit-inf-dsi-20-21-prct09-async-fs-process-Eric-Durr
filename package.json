@@ -7,7 +7,10 @@
     "test": "mocha",
     "build": "tsc ",
     "coverage": "nyc npm test && nyc report --reporter=lcov",
-    "start": "tsc && node dist/index.js",
+    "ejer1": "tsc  && node dist/ejer2.js",
+    "ejer2": "tsc  && node dist/ejer2.js",
+    "ejer3": "tsc  && node dist/ejer3.js",
+    "ejer4": "tsc  && node dist/ejer4.js",
     "watch": "mocha --watch",
     "doc": "typedoc; touch ./docs/.nojekyll"
   },
